@@ -1,6 +1,6 @@
 ---
 slug: long-blog-post
-title: Long Blog Post
+title: 2222
 authors: endi
 tags: [hello, docusaurus]
 ---
